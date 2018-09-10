@@ -9,7 +9,7 @@ import io.github.openunirest.request.GenericType;
 import java.io.IOException;
 
 public class JacksonObjectMapper implements ObjectMapper {
-    private com.fasterxml.jackson.databind.ObjectMapper om = new com.fasterxml.jackson.databind.ObjectMapper();
+    private final com.fasterxml.jackson.databind.ObjectMapper om;
 
     public JacksonObjectMapper() {
         this(new com.fasterxml.jackson.databind.ObjectMapper());

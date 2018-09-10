@@ -15,6 +15,6 @@ You may also provide it with your own com.fasterxml.jackson.databind.ObjectMappe
 <dependency>
     <groupId>io.github.openunirest</groupId>
         <artifactId>object-mappers-jackson</artifactId>
-        <version>1.0.00</version>
+        <version>1.0.01</version>
 </dependency>
 ```
