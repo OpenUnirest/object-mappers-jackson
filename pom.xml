@@ -4,7 +4,7 @@
 
     <groupId>io.github.openunirest</groupId>
     <artifactId>object-mappers-jackson</artifactId>
-    <version>1.0.00</version>
+    <version>1.0.01-SNAPSHOT</version>
     <name>object-mappers-jackson</name>
     <description>Jackson based object mapper for Open Unirest</description>
     <url>http://github.com/OpenUnirest/</url>
@@ -21,7 +21,7 @@
         <url>https://github.com/OpenUnirest/object-mappers-jackson</url>
         <connection>scm:git:git@github.com:OpenUnirest/object-mappers-jackson.git</connection>
         <developerConnection>scm:git:git@github.com:OpenUnirest/object-mappers-jackson.git</developerConnection>
-        <tag>v1.0.00</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
