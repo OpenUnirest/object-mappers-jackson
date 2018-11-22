@@ -1,4 +1,4 @@
-package io.github.openunirest.mappers;
+package unirest;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.core.JsonProcessingException;
