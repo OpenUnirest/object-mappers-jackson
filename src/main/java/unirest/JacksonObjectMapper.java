@@ -2,9 +2,6 @@ package unirest;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.core.JsonProcessingException;
-import unirest.ObjectMapper;
-import unirest.UnirestException;
-import unirest.GenericType;
 
 import java.io.IOException;
 
