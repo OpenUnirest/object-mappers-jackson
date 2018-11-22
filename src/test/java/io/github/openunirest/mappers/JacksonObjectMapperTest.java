@@ -1,6 +1,6 @@
 package io.github.openunirest.mappers;
 
-import io.github.openunirest.request.GenericType;
+import unirest.GenericType;
 import org.junit.Test;
 import org.skyscreamer.jsonassert.JSONAssert;
 

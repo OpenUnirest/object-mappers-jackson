@@ -5,7 +5,7 @@ Welcome. This is a Object Mapper for Open Unirest based on the popular Jackson J
 Use it like this:
 
 ```java
-     Options.setObjectMapper(new JacksonObjectMapper());
+     Unirest.config().setObjectMapper(new JacksonObjectMapper());
 ```
 
 You may also provide it with your own com.fasterxml.jackson.databind.ObjectMapper.
@@ -15,6 +15,6 @@ You may also provide it with your own com.fasterxml.jackson.databind.ObjectMappe
 <dependency>
     <groupId>io.github.openunirest</groupId>
         <artifactId>object-mappers-jackson</artifactId>
-        <version>1.0.01</version>
+        <version>3.0.00</version>
 </dependency>
 ```

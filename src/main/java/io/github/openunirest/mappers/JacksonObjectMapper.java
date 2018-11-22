@@ -2,9 +2,9 @@ package io.github.openunirest.mappers;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.core.JsonProcessingException;
-import io.github.openunirest.http.ObjectMapper;
-import io.github.openunirest.http.exceptions.UnirestException;
-import io.github.openunirest.request.GenericType;
+import unirest.ObjectMapper;
+import unirest.UnirestException;
+import unirest.GenericType;
 
 import java.io.IOException;
 
